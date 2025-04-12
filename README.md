@@ -1,16 +1,35 @@
-## Hi there 👋
+# :coffee: **saitolz**
 
-<!--
-**saitolz/saitolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Uma breve descrição do que o projeto faz e seu propósito. Por exemplo: "Este projeto é uma aplicação de gerenciamento de tarefas desenvolvida em Java utilizando Spring Boot."
 
-Here are some ideas to get you started:
+## Índice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Pré-requisitos](#pré-requisitos)
+- [Instalação](#instalação)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Como Contribuir](#como-contribuir)
+- [Licença](#licença)
+- [Autores](#autores)
+
+## 📝 Sobre
+
+Descreva detalhadamente o que é o projeto, seus objetivos e funcionalidades principais. Explique o problema que ele resolve e quem pode se beneficiar com sua utilização.
+
+## 🛠️ Tecnologias Utilizadas
+
+Liste as tecnologias, frameworks e bibliotecas utilizadas no desenvolvimento do projeto, incluindo suas versões. Por exemplo:
+
+- **Java**: Versão 17
+- **Spring Boot**: Versão 2.5.4
+- **Maven**: Versão 3.8.1
+- **JUnit**: Versão 5.7.0
+
+## 📋 Pré-requisitos
+
+Antes de rodar o projeto, é necessário ter instalado em sua máquina:
+
+- **Java 17**: [Download](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+- **Maven 3.8.1**: [Download](https://maven.apache.org/download.cgi)
+- **Banco de Dados PostgreSQL**: [Download](https://www.postgresql.org/download/)

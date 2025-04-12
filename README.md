@@ -1,35 +1,43 @@
-# :coffee: **saitolz**
+# Olá, eu sou o [saitolz] 👋
 
-> Uma breve descrição do que o projeto faz e seu propósito. Por exemplo: "Este projeto é uma aplicação de gerenciamento de tarefas desenvolvida em Java utilizando Spring Boot."
+![Imagem de Perfil](https://github.com/seu-usuario.png)
 
-## Índice
+## Sobre mim
 
-- [Sobre](#sobre)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
-- [Autores](#autores)
+🔭 Atualmente, estou trabalhando como desenvolvedor Java e explorando novas tecnologias.  
+🌱 Estou aprendendo sobre Spring Boot e aprimorando minhas habilidades em APIs RESTful.  
+👯 Estou buscando colaborar em projetos de código aberto relacionados a automação e integração contínua.  
+🤔 Estou procurando ajuda com práticas de DevOps e containerização.  
+💬 Pergunte-me sobre Java, Spring, Git e metodologias ágeis.  
+📫 Como entrar em contato comigo: [Derickbgc@gmail.com])  
+😄 Pronomes: ele/dele  
+⚡ Curiosidade: Sou apaixonado por resolver problemas complexos com código limpo e eficiente.
 
-## 📝 Sobre
+---
 
-Descreva detalhadamente o que é o projeto, seus objetivos e funcionalidades principais. Explique o problema que ele resolve e quem pode se beneficiar com sua utilização.
+## 🛠️ Tecnologias & Ferramentas
 
-## 🛠️ Tecnologias Utilizadas
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Liste as tecnologias, frameworks e bibliotecas utilizadas no desenvolvimento do projeto, incluindo suas versões. Por exemplo:
+---
 
-- **Java**: Versão 17
-- **Spring Boot**: Versão 2.5.4
-- **Maven**: Versão 3.8.1
-- **JUnit**: Versão 5.7.0
+## 📈 GitHub Stats
 
-## 📋 Pré-requisitos
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-Antes de rodar o projeto, é necessário ter instalado em sua máquina:
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
-- **Java 17**: [Download](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
-- **Maven 3.8.1**: [Download](https://maven.apache.org/download.cgi)
-- **Banco de Dados PostgreSQL**: [Download](https://www.postgresql.org/download/)
+---
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/saitolz)
+- [Twitter](https://twitter.com/saitolz)
+
+---
+
+🔧 "A programação é a arte de transformar café em código." ☕💻

@@ -1,8 +1,7 @@
 # :coffee: **saitolz**
 
 ![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Badge de Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue)
-![Badge de Versão](https://img.shields.io/github/v/release/seu-usuario/nome-do-projeto)
+![Badge de Versão](https://img.shields.io/github/v/release/saitolz/saitolz)
 
 > Uma breve descrição do que o projeto faz e seu propósito. Por exemplo: "Este projeto é uma aplicação de gerenciamento de tarefas desenvolvida em Java utilizando Spring Boot."
 

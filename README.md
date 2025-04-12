@@ -1,7 +1,5 @@
 # Olá, eu sou o [saitolz] 👋
 
-![Imagem de Perfil](https://github.com/seu-usuario.png)
-
 ## Sobre mim
 
 🔭 Atualmente, estou trabalhando como desenvolvedor Java e explorando novas tecnologias.  

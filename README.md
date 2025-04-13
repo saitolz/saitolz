@@ -24,7 +24,7 @@
 
 ## 📫 Como me encontrar
 
-- [LinkedIn]([https://www.linkedin.com/in/saitolz])
+- [LinkedIn](https://twitter.com/saitolz)
 - [Twitter](https://twitter.com/saitolz)
 
 ---

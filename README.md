@@ -21,11 +21,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ---
 
-## 📫 Como me encontrar
-
-- [LinkedIn](https://linkedin.com/in/diogotomaz)
-- [Twitter](https://twitter.com/saitolz)
-
----
 
 🔧 "A programação é a arte de transformar café em código." ☕💻

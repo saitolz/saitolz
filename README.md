@@ -8,7 +8,6 @@
 🤔 Estou procurando ajuda com práticas de DevOps e containerização.  
 💬 Pergunte-me sobre Java, Spring, Git e metodologias ágeis.  
 📫 Como entrar em contato comigo: ([Derickbgc@gmail.com])  
-😄 Pronomes: ele/dele  
 ⚡ Curiosidade: Sou apaixonado por resolver problemas complexos com código limpo e eficiente.
 
 ---

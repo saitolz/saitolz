@@ -24,7 +24,7 @@
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://linkedin.com/in/diogo-tomaz)
+- [LinkedIn](https://linkedin.com/in/diogo-tomaz-1011b2360/)
 - [Twitter](https://twitter.com/saitolz)
 
 ---
